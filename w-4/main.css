@@ -1,0 +1,8 @@
+table tr th, table tr td{
+    border: 1px solid brown;
+}
+
+table tr.liste_etudiants{
+    background-color: brown;
+    color: white;
+}

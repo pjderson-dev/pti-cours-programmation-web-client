@@ -1,8 +1,10 @@
-table tr th, table tr td{
-    border: 1px solid brown;
+table tr th,
+table tr td {
+  border: 1px solid brown;
+  padding: 5px;
 }
 
-table tr.liste_etudiants{
-    background-color: brown;
-    color: white;
+table tr.liste_etudiants {
+  background-color: brown;
+  color: white;
 }
